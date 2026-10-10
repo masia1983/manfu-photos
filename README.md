@@ -1,0 +1,2 @@
+# manfu-photos
+wechatmini
